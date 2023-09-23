@@ -64,6 +64,8 @@ header p{
   width: 100%;
   padding: 10px;
 }
+section{
+  width:100%;}
 section img {
   width: 60%;
 }
