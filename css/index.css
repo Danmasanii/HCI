@@ -74,7 +74,7 @@ main {
   margin-bottom: 5rem;
 }
 .p-card {
-  background-color: #295691;
+  background-color:rgba(210, 221, 228, 0.2) ;
   margin: 4.5rem auto;
   width: 200px;
   height: 200px;
