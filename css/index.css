@@ -20,6 +20,13 @@ body {
   background-color: rgba(230, 233, 235, 0.1);
   background-color: rgba(210, 221, 228, 0.2);
   background: linear-gradient(45deg, rgb(31, 150, 114), 50%, #295691);
+  background: #ff416c;
+  background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c);
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  color: #ffffff;
   box-shadow: 0px 1px 0px 1px #000;
   box-shadow: 0px 1px 5px 0px rgba(170, 170, 170, 1);
 }
