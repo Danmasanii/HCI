@@ -80,7 +80,7 @@ main {
   height: 200px;
   border-bottom: 0;
   border-radius: 0.5rem 0.5rem 0 0;
-  box-shadow: 0 2px 2px 0 #ccc;
+  box-shadow: 0 2px 2px 0 #eee;
 }
 .p-card img {
   width: 200px;
