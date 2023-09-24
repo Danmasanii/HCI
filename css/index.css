@@ -50,7 +50,7 @@ ul li a:hover {
 header {
   justify-content: center;
   align-items: center;
-  margin-top: 50px;
+  margin: 0px;
 }
 header p {
   color: #818080;
