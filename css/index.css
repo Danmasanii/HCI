@@ -83,7 +83,7 @@ main {
   box-shadow: 0 2px 2px 0 #ddd;
 }
 .p-card img {
-  width: 200px;
+  width: 100%;
 }
 .card-container {
   margin: 4.5rem auto;
