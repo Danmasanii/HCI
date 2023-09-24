@@ -112,6 +112,11 @@ margin-top: 20px;
 .img-container img{
 width: 100%;
 }
+h1{
+  color: #295691;
+  margin: auto;
+  padding: 10px;
+}
 .news-letter-wrapper {
   display: flex;
   justify-content: center;
