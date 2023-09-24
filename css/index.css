@@ -59,7 +59,7 @@ header p {
   padding: 10px;
   margin: 5px;
 }
-header ul{
+header ul, header ul li{
   text-align: center;
   color: #818080;
 }
