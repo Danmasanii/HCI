@@ -60,6 +60,7 @@ header p {
   margin: 5px;
 }
 header ul{
+  text-align: center;
   color: #818080;
 }
 header img {
