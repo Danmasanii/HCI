@@ -94,7 +94,9 @@ main, .img-container {
   box-shadow: 0 2px 2px 0 #fff;
 }
 .p-card img {
+  border-radius: 0.5rem;
   width: 100%;
+  
 }
 .p-card h3 {
   color: rgb(51, 17, 116);
