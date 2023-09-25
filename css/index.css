@@ -54,7 +54,7 @@ header {
 }
 header p {
   color: #818080;
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
   padding: 10px;
   margin: 5px;
@@ -65,6 +65,7 @@ header ul, header ul li{
 }
 header img {
   width: 100%;
+  border-radius: 15px;
 }
 
 section {
