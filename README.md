@@ -1,2 +1,2 @@
 # HCI
-# [link](https://danmasanii.github.io/HCI/)
+# [Link](https://danmasanii.github.io/HCI/)
